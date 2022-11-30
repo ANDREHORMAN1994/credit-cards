@@ -6,7 +6,7 @@ class Header extends Component {
     return (
       <div className="header-container" >
         <img src={logo} alt="Logo da Trybe" />
-        <h1 className="header-title" >Tela de Login 📃</h1>
+        <h1 className="header-title" >Cadastro de Cartão de Crédito 💳</h1>
       </div>
     )
   }
