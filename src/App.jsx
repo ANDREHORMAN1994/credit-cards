@@ -27,13 +27,12 @@ class App extends React.Component {
         <Header />
         <main>
           <section>
-
             <Card
-              cvc={''}
-              expiry={''}
-              focused={''}
               name={''}
               number={''}
+              expiry={''}
+              cvc={''}
+              focused={''}
             />
           </section>
         </main>
